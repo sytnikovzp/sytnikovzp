@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandr Sytnikov</h1>
-<h3 align="center">A passionate frontend developer from Zaporizhzhia</h3>
+<h3 align="center">A passionate fullstack developer from Zaporizhzhia</h3>
 
 - 🔭 I’m currently working on - [Cinema manager client (with Vite)](https://github.com/sytnikovzp/Cinema-manager-client)
 
