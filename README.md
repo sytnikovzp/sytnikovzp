@@ -5,9 +5,9 @@
 
 | Project Screenshot                                | Project Description                                                                                                                                                                                         |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Cinema Manager](./screenshots/cinema.jpg)       | **Cinema Manager**<br>Cinema manager client is a project that implements the ability to store and organize information about movies, actors, directors, and studios. [GitHub Repo](https://github.com/sytnikovzp/Cinema-manager) |
-| ![Weather](./screenshots/weather.png)             | **Weather**<br>An application for viewing weather forecasts with dynamic updates and geolocation support. [GitHub Repo](https://github.com/sytnikovzp/weather)                                              |
-| ![Home Accounting](./screenshots/in-progress.jpg) | **Home Accounting**<br>An app for tracking personal finances. Allows monitoring of expenses and income. Currently in development. [GitHub Repo](https://github.com/sytnikovzp/home-accounting)              |
+| ![Cinema Manager](./screenshots/cinema.jpg)       | **Cinema Manager**<br>Cinema manager client is a project that implements the ability to store and organize information about movies, actors, directors, and studios. <br>[GitHub Repo](https://github.com/sytnikovzp/Cinema-manager) |
+| ![Weather](./screenshots/weather.png)             | **Weather**<br>An application for viewing weather forecasts with dynamic updates and geolocation support. <br>[GitHub Repo](https://github.com/sytnikovzp/weather)                                              |
+| ![Home Accounting](./screenshots/in-progress.jpg) | **Home Accounting**<br>An app for tracking personal finances. Allows monitoring of expenses and income. Currently in development. <br>[GitHub Repo](https://github.com/sytnikovzp/home-accounting)              |
 
 ---
 
