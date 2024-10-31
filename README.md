@@ -3,11 +3,11 @@
 
 # My Pet Projects:
 
-| Project Screenshot                                | Project Description                                                                                                                                                                                         |
-| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Cinema Manager](./screenshots/cinema.jpg)       | **Cinema Manager**<br>Cinema manager client is a project that implements the ability to store and organize information about movies, actors, directors, and studios. <br>[GitHub Repo](https://github.com/sytnikovzp/Cinema-manager) |
-| ![Weather](./screenshots/weather.png)             | **Weather**<br>An application for viewing weather forecasts with dynamic updates and geolocation support. <br>[GitHub Repo](https://github.com/sytnikovzp/weather)                                              |
-| ![Home Accounting](./screenshots/in-progress.jpg) | **Home Accounting**<br>An app for tracking personal finances. Allows monitoring of expenses and income. Currently in development. <br>[GitHub Repo](https://github.com/sytnikovzp/home-accounting)              |
+| Project Screenshot                                | Project Description                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Cinema Manager](./screenshots/cinema.jpg)       | <h3>Cinema Manager</h3><br>Cinema manager client is a project that implements the ability to store and organize information about movies, actors, directors, and studios. <br><img src="https://img.shields.io/github/last-commit/sytnikovzp/Cinema-manager" alt="Last Commit"><br>[GitHub Repo](https://github.com/sytnikovzp/Cinema-manager) |
+| ![Weather](./screenshots/weather.png)             | <h3>Weather</h3><br>An application for viewing weather forecasts with dynamic updates and geolocation support. <br><img src="https://img.shields.io/github/last-commit/sytnikovzp/weather" alt="Last Commit"><br>[GitHub Repo](https://github.com/sytnikovzp/weather)                                                                          |
+| ![Home Accounting](./screenshots/in-progress.jpg) | <h3>Home Accounting</h3><br>An app for tracking personal finances. Allows monitoring of expenses and income. Currently in development. <br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit"><br>[GitHub Repo](https://github.com/sytnikovzp/home-accounting)                                  |
 
 ---
 
