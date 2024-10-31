@@ -7,21 +7,21 @@
   
   <span style="text-align: center;">
     <a href="https://github.com/sytnikovzp/Cinema-manager">
-      <img src="./screenshots/cinema.jpg" alt="Cinema manager" width="200"/>
+      <img src="./screenshots/cinema.jpg" alt="Cinema manager" width="150"/>
     </a>
     <div>Cinema manager</div>
   </span>
   
   <span style="text-align: center;">
     <a href="https://github.com/sytnikovzp/weather">
-      <img src="./screenshots/weather.png" alt="Weather" width="200"/>
+      <img src="./screenshots/weather.png" alt="Weather" width="150"/>
     </a>
     <div>Weather</div>
   </span>
   
   <span style="text-align: center;">
     <a href="https://github.com/sytnikovzp/home-accounting">
-      <img src="./screenshots/in-progress.jpg" alt="Home accounting" width="200" />
+      <img src="./screenshots/in-progress.jpg" alt="Home accounting" width="150" />
     </a>
     <div>Home accounting</div>
   </span>
