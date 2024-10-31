@@ -3,28 +3,37 @@
 
 # My Pet Projects:
 
-<div align="center" style="display: flex; flex-direction: row; gap: 10px;">
-  
-  <span style="text-align: center;">
+<div align="left" style="display: flex; flex-direction: column; gap: 10px;">
+
+  <div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://github.com/sytnikovzp/Cinema-manager">
-      <img src="./screenshots/cinema.jpg" alt="Cinema manager" width="150"/>
+      <img src="./screenshots/cinema.jpg" alt="Cinema manager" style="width: 250px; height: 150px; object-fit: cover;"/>
     </a>
-    <div>Cinema manager</div>
-  </span>
-  
-  <span style="text-align: center;">
+    <div>
+      <h3>Cinema Manager</h3>
+      <p>Cinema manager client is a project that implements the ability to store and organize information about movies, actors, directors, and studios.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://github.com/sytnikovzp/weather">
-      <img src="./screenshots/weather.png" alt="Weather" width="150"/>
+      <img src="./screenshots/weather.png" alt="Weather" style="width: 250px; height: 150px; object-fit: cover;"/>
     </a>
-    <div>Weather</div>
-  </span>
-  
-  <span style="text-align: center;">
+    <div>
+      <h3>Weather</h3>
+      <p>An application for viewing weather forecasts with dynamic updates and geolocation support.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://github.com/sytnikovzp/home-accounting">
-      <img src="./screenshots/in-progress.jpg" alt="Home accounting" width="150" />
+      <img src="./screenshots/in-progress.jpg" alt="Home accounting" style="width: 250px; height: 150px; object-fit: cover;"/>
     </a>
-    <div>Home accounting</div>
-  </span>
+    <div>
+      <h3>Home Accounting</h3>
+      <p>An app for tracking personal finances. Allows monitoring of expenses and income. Currently in development.</p>
+    </div>
+  </div>
 
 </div>
 
