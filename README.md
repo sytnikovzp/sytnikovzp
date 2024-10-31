@@ -3,7 +3,7 @@
 
 # My Pet Projects:
 
-<div align="center" style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; flex-direction: row; gap: 10px;">
   
   <span style="text-align: center;">
     <a href="https://github.com/sytnikovzp/Cinema-manager">
