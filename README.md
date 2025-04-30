@@ -3,11 +3,11 @@
 
 # My Pet Projects:
 
-| Project Screenshot                                    | Project Description                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Home Accounting](./screenshots/home-accounting.png) | [🔥 **Home Accounting** 🔥](https://github.com/sytnikovzp/home-accounting)<br><br>Web application for home accounting with authorization, adding/editing transactions, filters, and graphs.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit">                                                   |
-| ![Weather App](./screenshots/weather-app.png)         | [**Weather App**](https://github.com/sytnikovzp/weather-app)<br><br>An interactive weather application that allows users to view forecasts for different cities, use geolocation to find local weather, and manage a list of favorite locations.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/weather-app" alt="Last Commit">  |
-| ![Cinema Manager](./screenshots/cinema-manager.jpg)   | [**Cinema Manager**](https://github.com/sytnikovzp/cinema-manager)<br><br>Cinema Manager is a project that implements the ability to store and organize information about films, actors, directors, and studios.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/Cinema-manager" alt="Last Commit"> |
+| Project Screenshot                                    | Project Description                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Home Accounting](./screenshots/home-accounting.png) | [🔥 **Home Accounting** 🔥](https://github.com/sytnikovzp/home-accounting)<br><br>Web application for home accounting with authorization, adding/editing transactions, filters, and graphs.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit">                                                  |
+| ![Weather App](./screenshots/weather-app.png)         | [**Weather App**](https://github.com/sytnikovzp/weather-app)<br><br>An interactive weather application that allows users to view forecasts for different cities, use geolocation to find local weather, and manage a list of favorite locations.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/weather-app" alt="Last Commit"> |
+| ![Cinema Manager](./screenshots/cinema-manager.jpg)   | [**Cinema Manager**](https://github.com/sytnikovzp/cinema-manager)<br><br>Cinema Manager is a project that implements the ability to store and organize information about films, actors, directors, and studios.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/Cinema-manager" alt="Last Commit">                              |
 
 ---
 
@@ -15,9 +15,9 @@
 
 ---
 
-<p align="center">
-  <img src="./education/certificate.jpg" alt="Freshcode Trainee" style="max-width: 80%;">
-</p>
+<div align="center">
+  <img src="./education/certificate.jpg" alt="Freshcode Trainee" width="50%" />
+</div>
 
 ---
 
@@ -27,11 +27,27 @@
 
 #### 💻 Frontend
 
-<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px"/> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin:10px"/> <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style="margin:10px"/> <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" alt="Formik" width="40" height="40" style="margin:10px"/> </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin:10px"/> <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" alt="Formik" width="40" height="40" style="margin:10px"/> 
+</div>
 
 #### 🖥️ Backend
 
-<div align="center"> <img src="https://iconduck.com/vectors/vctrruvykdlj/media/svg/download" alt="Node.js" width="40" height="40" style="margin:10px"/> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" style="margin:10px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin:10px"/> <img src="https://www.cobbleweb.co.uk/wp/wp-content/uploads/2021/10/Tech_Foundation-6-RESTful-API.svg" alt="REST API" width="40" height="40" style="margin:10px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/WebSocket_colored_logo.svg" alt="WebSocket" width="40" height="40" style="margin:10px"/> </div>
+<div align="center">
+  <img src="https://iconduck.com/vectors/vctrruvykdlj/media/svg/download" alt="Node.js" width="40" height="40" style="margin:10px"/>
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin:10px"/>
+  <img src="https://www.cobbleweb.co.uk/wp/wp-content/uploads/2021/10/Tech_Foundation-6-RESTful-API.svg" alt="REST API" width="40" height="40" style="margin:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/WebSocket_colored_logo.svg" alt="WebSocket" width="40" height="40" style="margin:10px"/>
+</div>
 
 #### 🛠️ DevOps & Tools
 
