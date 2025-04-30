@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin:10px"/>
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/bash-shell-script-7855733-6374566.png" alt="Bash" width="40" height="40" style="margin:10px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Powershell_128.svg" alt="PowerShell" width="40" height="40" style="margin:10px"/>
-  <img src="https://www.flaticon.com/download/icon/5453855?icon_id=5453855&author=222&team=222&keyword=Ssh&pack=5453648&style=1&style_id=14&format=png&color=%23000000&colored=1&size=512&selection=1&type=standard" alt="SSH" width="40" height="40" style="margin:10px"/>
+  <img src="https://pc.net/img/terms/ssh.svg" alt="SSH" width="40" height="40" style="margin:10px"/>
 </div>
 
 #### 🧪 Testing & API
