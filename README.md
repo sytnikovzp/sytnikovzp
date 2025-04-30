@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ My Certificates
+### 🌟 My Certificates
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🧑‍💻 My Tech Stack
 
 ---
 
