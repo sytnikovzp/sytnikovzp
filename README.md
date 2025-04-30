@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Alexandr Sytnikov!</h1>
-<h3 align="center">A passionate fullstack web developer from Zaporizhzhia 🇺🇦</h3>
+<h1 align="center">Hey there! I'm Alexandr Sytnikov</h1>
+<h3 align="center">Crafting fullstack web apps from the heart of Zaporizhzhia 🇺🇦</h3>
 
-# My Pet Projects:
+&nbsp;
+
+### 💼 My Portfolio
+
+---
 
 | Project Screenshot                                    | Project Description                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
