@@ -9,18 +9,19 @@
 
 | Project Screenshot                                    | Project Description                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Home Accounting](./screenshots/home-accounting.png) | [🔥 **Home Accounting** 🔥](https://github.com/sytnikovzp/home-accounting)<br><br>Web application for home accounting with authorization, adding/editing transactions, filters, and graphs.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit">                                                  |
+| ![Home Accounting](./screenshots/home-accounting.png) | [🏆 **Home Accounting**](https://github.com/sytnikovzp/home-accounting)<br><br>Web application for home accounting with authorization, adding/editing transactions, filters, and graphs.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit">                                                     |
 | ![Weather App](./screenshots/weather-app.png)         | [**Weather App**](https://github.com/sytnikovzp/weather-app)<br><br>An interactive weather application that allows users to view forecasts for different cities, use geolocation to find local weather, and manage a list of favorite locations.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/weather-app" alt="Last Commit"> |
 | ![Cinema Manager](./screenshots/cinema-manager.jpg)   | [**Cinema Manager**](https://github.com/sytnikovzp/cinema-manager)<br><br>Cinema Manager is a project that implements the ability to store and organize information about films, actors, directors, and studios.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/Cinema-manager" alt="Last Commit">                              |
 
 ---
 
-### 🌟 My Certificates
+### 🌟 My Certificates & Education
 
 ---
 
 <div align="center">
-  <img src="./education/certificate.jpg" alt="Freshcode Trainee" width="50%" />
+  <img src="./education/certificate-fc.jpg" alt="Freshcode Trainee" width="30%" />
+  <img src="./education/master-diploma.jpg" alt="Master's Degree Diploma" width="30%" />
 </div>
 
 ---
@@ -35,7 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px"/>
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin:10px"/> <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style="margin:10px"/>
   <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" alt="Formik" width="40" height="40" style="margin:10px"/> 
@@ -60,9 +60,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin:10px"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin:10px"/>
+  <img src="https://pc.net/img/terms/ssh.svg" alt="SSH" width="40" height="40" style="margin:10px"/>
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/bash-shell-script-7855733-6374566.png" alt="Bash" width="40" height="40" style="margin:10px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Powershell_128.svg" alt="PowerShell" width="40" height="40" style="margin:10px"/>
-  <img src="https://pc.net/img/terms/ssh.svg" alt="SSH" width="40" height="40" style="margin:10px"/>
 </div>
 
 #### 🧪 Testing & API
