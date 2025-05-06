@@ -84,4 +84,4 @@
 
 ---
 
-<p align="center">Designed & developed by Alexandr Sytnikov © 2024</p>
+<p align="center">© 2023–2025 Designed by Alexandr Sytnikov</p>
