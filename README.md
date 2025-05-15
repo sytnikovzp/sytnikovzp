@@ -1,6 +1,10 @@
 <h1 align="center">Hey there! I'm Alexandr Sytnikov</h1>
 <h3 align="center">Crafting fullstack web apps from the heart of Zaporizhzhia 🇺🇦</h3>
 
+<p align="center">
+  📄 <a href="./CV/Sytnikov_CV.pdf"><strong>View My Resume (PDF)</strong></a>
+</p>
+
 &nbsp;
 
 ### 💼 My Portfolio
