@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Alexandr Sytnikov</h1>
+<h1 align="center">Hey there! I'm Oleksandr Sytnikov</h1>
 <h3 align="center">Crafting fullstack web apps from the heart of Zaporizhzhia 🇺🇦</h3>
 
 <p align="center">
