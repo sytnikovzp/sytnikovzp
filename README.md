@@ -73,6 +73,9 @@
 #### 🛠️ Dev Tools / Code Quality
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" alt="DBeaver" width="40" height="40" style="margin:10px"/>
+  <img src="https://www.kenwalger.com/twitter_cards/mongodb-compass.png" alt="MongoDB Compass" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin:10px"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin:10px"/>
@@ -95,7 +98,7 @@
 
 <div align="center">
   <img src="https://happyware.com/media/image/c8/a2/59/Windows-Server.png" alt="Windows Server" width="40" height="40" style="margin:10px"/>
-  <img src="https://static-00.iconduck.com/assets.00/azure-active-directory-aad-icon-976x1024-wsgkjjk2.png" alt="Active Directory" width="40" height="40" style="margin:10px"/>
+  <img src="https://www.thatlazyadmin.com/wp-content/uploads/2017/04/AD_Orginal_New_Logo.png" alt="Active Directory" height="40" style="margin:10px"/>
   <img src="https://www.svgrepo.com/show/331779/virtual-machines.svg" alt="Hyper-V" width="40" height="40" style="margin:10px"/>
   <img src="https://www.johndstech.com/wp-content/uploads/2016/02/SCCM2012R2_big-1.png" alt="SCCM" width="40" height="40" style="margin:10px"/>
   <img src="https://media.imgcdn.org/repo/2023/03/vmware-horizon-enterprise-version/676d08a326649-vmware-horizon-enterprise-version-Icon.webp" alt="VMWare Horizon" width="40" height="40" style="margin:10px"/>
@@ -103,4 +106,4 @@
 
 ---
 
-<p align="center">© 2023–2025 Designed by Alexandr Sytnikov</p>
+<p align="center">© 2023–2025 Designed by Oleksandr Sytnikov</p>
