@@ -11,12 +11,12 @@
 
 ---
 
-| Project Screenshot                                                                                                                            | Project Description                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/sytnikovzp/home-accounting#readme"><img width="100%" height="100%" src="./screenshots/home-accounting.png"></a>   | [🏆 **Home Accounting**](https://github.com/sytnikovzp/home-accounting#readme)<br><br>Web application for home accounting with authorization, adding/editing transactions, filters, and graphs.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit">                                                                                                                                                   |
-| <a href="https://github.com/sytnikovzp/weather-app#readme"><img width="100%" height="100%" src="./screenshots/weather-app.png"></a>           | [**Weather App**](https://github.com/sytnikovzp/weather-app#readme)<br><br>An interactive weather application that allows users to view forecasts for different cities, use geolocation to find local weather, and manage a list of favorite locations.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/weather-app" alt="Last Commit">                                                                                               |
-| <a href="https://github.com/sytnikovzp/cinema-manager#readme"><img width="100%" height="100%" src="./screenshots/cinema-manager.png"></a>     | [**Cinema Manager**](https://github.com/sytnikovzp/cinema-manager#readme)<br><br>Cinema Manager is a project that implements the ability to store and organize information about films, actors, directors, and studios.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/cinema-manager" alt="Last Commit">                                                                                                                            |
-| <a href="https://www.npmjs.com/package/eslint-plugin-mui-sx-order"><img width="100%" height="100%" src="./screenshots/eslint-mui-sx.png"></a> | [**ESLint Plugin for Sorting MUI sx Properties**](https://github.com/sytnikovzp/eslint-plugin-mui-sx-order#readme)<br><br>This ESLint plugin helps maintain the correct order of properties in MUI (Material-UI) sx objects according to best practices. Published on [npm](https://www.npmjs.com/package/eslint-plugin-mui-sx-order).<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/eslint-plugin-mui-sx-order" alt="Last Commit"> |
+| Project Screenshot                                                                                                                                        | Project Description                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/sytnikovzp/home-accounting#readme"><img src="./screenshots/home-accounting.png" alt="Home Accounting" width="600"></a>        | [🏆 **Home Accounting**](https://github.com/sytnikovzp/home-accounting#readme)<br><br>Web application for home accounting with authorization, adding/editing transactions, filters, and graphs.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/home-accounting" alt="Last Commit">                                                                                                                                                   |
+| <a href="https://github.com/sytnikovzp/weather-app#readme"><img src="./screenshots/weather-app.png" alt="Weather App" width="600"></a>                    | [**Weather App**](https://github.com/sytnikovzp/weather-app#readme)<br><br>An interactive weather application that allows users to view forecasts for different cities, use geolocation to find local weather, and manage a list of favorite locations.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/weather-app" alt="Last Commit">                                                                                               |
+| <a href="https://github.com/sytnikovzp/cinema-manager#readme"><img src="./screenshots/cinema-manager.png" alt="Cinema Manager" width="600"></a>           | [**Cinema Manager**](https://github.com/sytnikovzp/cinema-manager#readme)<br><br>Cinema Manager is a project that implements the ability to store and organize information about films, actors, directors, and studios.<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/cinema-manager" alt="Last Commit">                                                                                                                            |
+| <a href="https://www.npmjs.com/package/eslint-plugin-mui-sx-order"><img src="./screenshots/eslint-mui-sx.png" alt="ESLint MUI SX Plugin" width="600"></a> | [**ESLint Plugin for Sorting MUI sx Properties**](https://github.com/sytnikovzp/eslint-plugin-mui-sx-order#readme)<br><br>This ESLint plugin helps maintain the correct order of properties in MUI (Material-UI) sx objects according to best practices. Published on [npm](https://www.npmjs.com/package/eslint-plugin-mui-sx-order).<br><br><img src="https://img.shields.io/github/last-commit/sytnikovzp/eslint-plugin-mui-sx-order" alt="Last Commit"> |
 
 ---
 
@@ -41,24 +41,36 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin:10px"/> <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style="margin:10px"/>
-  <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" alt="Formik" width="40" height="40" style="margin:10px"/> 
+  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" width="40" height="40" style="margin:10px; background:white; border-radius:8px"/>
+  <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="React Router" width="40" height="40" style="margin:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40" height="40" style="margin:10px"/>
+  <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style="margin:10px"/>
+  <img src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" alt="Ant Design" width="40" height="40" style="margin:10px"/>
+  <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="Framer Motion" width="40" height="40" style="margin:10px"/>
+  <img src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png" alt="Axios" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" alt="Formik" width="40" height="40" style="margin:10px"/>
+  
 </div>
 
 #### 🖥️ Backend
 
 <div align="center">
-  <img src="https://iconduck.com/vectors/vctrruvykdlj/media/svg/download" alt="Node.js" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" height="40" style="margin:10px"/>
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="40" height="40" style="margin:10px"/>
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" style="margin:10px"/>
+  <img src="https://avatars.githubusercontent.com/u/20165699" alt="TypeORM" width="40" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin:10px"/>
+  <img src="https://avatars.githubusercontent.com/u/7552965" alt="Mongoose" width="40" height="40" style="margin:10px"/>
   <img src="https://www.cobbleweb.co.uk/wp/wp-content/uploads/2021/10/Tech_Foundation-6-RESTful-API.svg" alt="REST API" width="40" height="40" style="margin:10px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/WebSocket_colored_logo.svg" alt="WebSocket" width="40" height="40" style="margin:10px"/>
 </div>
 
-#### 🛠️ DevOps & Tools
+#### 🛠️ Dev Tools / Code Quality
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin:10px"/>
@@ -68,6 +80,8 @@
   <img src="https://pc.net/img/terms/ssh.svg" alt="SSH" width="40" height="40" style="margin:10px"/>
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/bash-shell-script-7855733-6374566.png" alt="Bash" width="40" height="40" style="margin:10px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Powershell_128.svg" alt="PowerShell" width="40" height="40" style="margin:10px"/>
+  <img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" alt="ESLint" width="40" height="40" style="margin:10px"/>
+  <img src="https://prettier.io/icon.png" alt="Prettier" width="40" height="40" style="margin:10px"/>
 </div>
 
 #### 🧪 Testing & API
