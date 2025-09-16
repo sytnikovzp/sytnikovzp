@@ -2,11 +2,15 @@
 <h3 align="center">Crafting fullstack web apps from the heart of Zaporizhzhia 🇺🇦</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Full-stack+Web+Development;JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Vite+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express.js+%E2%80%A2+NestJS;Clean+code+%E2%80%A2+Constant+learning" alt="Typing SVG" />
+</p>
+
+<p align="center">
   📄 <a href="./CV/Sytnikov_CV.pdf"><strong>View My Resume (PDF)</strong></a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sytnikovzp.sytnikovzp" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sytnikovzp.sytnikovzp&left_text=My%20Page%20Visitors" alt="visitor badge"/>
 </p>
 
 ### 💼 My Portfolio
@@ -105,14 +109,6 @@
   <img src="./icons/sccm.png" alt="SCCM" width="40" height="40" style="margin:16px"/>
   <img src="./icons/horizon.webp" alt="VMWare Horizon" width="40" height="40" style="margin:16px"/>
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/main/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/main/dist/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/main/dist/snake.svg">
-</picture>
 
 ---
 
