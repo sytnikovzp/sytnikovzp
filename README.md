@@ -108,4 +108,8 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/output/dist/snake.svg)
+
+---
+
 <p align="center">© 2023–2025 Designed by Oleksandr Sytnikov</p>
