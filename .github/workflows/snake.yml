@@ -23,10 +23,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: sytnikovzp
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update snake animation'
-          add: 'dist/snake.svg'
+          add: 'dist/snake*.svg'

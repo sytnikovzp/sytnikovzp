@@ -108,7 +108,11 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/output/dist/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/main/dist/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/main/dist/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sytnikovzp/sytnikovzp/main/dist/snake.svg">
+</picture>
 
 ---
 
