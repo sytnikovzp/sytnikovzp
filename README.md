@@ -5,7 +5,9 @@
   📄 <a href="./CV/Sytnikov_CV.pdf"><strong>View My Resume (PDF)</strong></a>
 </p>
 
-&nbsp;
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sytnikovzp.sytnikovzp" alt="visitor badge"/>
+</p>
 
 ### 💼 My Portfolio
 
