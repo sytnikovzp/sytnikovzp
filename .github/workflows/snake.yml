@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,7 +25,7 @@ jobs:
           github_user_name: sytnikovzp
           outputs: dist/snake.svg
 
-      - name: Push generated files
+      - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update snake animation'
