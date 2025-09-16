@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📄 <a href="./CV/Sytnikov_CV.pdf"><strong>View My Resume (PDF)</strong></a>
+  📄 <a href="./CV/Sytnikov_CV.pdf"><strong>Check out My CV (PDF)</strong></a>
 </p>
 
 <p align="center">
