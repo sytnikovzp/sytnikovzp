@@ -2,7 +2,7 @@
 <h3 align="center">Crafting fullstack web apps from the heart of Zaporizhzhia 🇺🇦</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Full-stack+Web+Development;JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Vite+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express.js+%E2%80%A2+NestJS;Clean+code+%E2%80%A2+Constant+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Full-stack+Web+Development;JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Vite+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express.js+%E2%80%A2+NestJS;PostgreSQL+%E2%80%A2+MongoDB;Sequelize+ORM+%E2%80%A2+TypeORM+%E2%80%A2+Mongoose;ESlint+%E2%80%A2+Prettier;Clean+code+%E2%80%A2+Constant+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-### 🌟 My Certificates & Education
+### 🌟 My Education & Certificates
 
 ---
 
