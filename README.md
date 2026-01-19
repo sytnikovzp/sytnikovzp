@@ -115,4 +115,4 @@
 
 ---
 
-<p align="center">© 2023–2025 Designed by Oleksandr Sytnikov</p>
+<p align="center">© 2023–2026 Designed by Oleksandr Sytnikov</p>
